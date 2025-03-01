@@ -76,9 +76,9 @@ Required libraries (install via pip install -r requirements.txt)
 Open jupyter Notebook
 Open the corresponding .ipynb file:
 
-Shaik Khaja Nagoor_00755216_Task 1.ipynb
-Shaik Khaja Nagoor_00755216_Task 2.ipynb
-Shaik Khaja Nagoor_00755216_Task 3.ipynb
+Classification Algorithms.ipynb
+Clustering Algorithms.ipynb
+Text Classification & Sentiment Analysis.ipynb
 
 Run the cells sequentially to execute the analysis.
 
